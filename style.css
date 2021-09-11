@@ -1,0 +1,102 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+.min-bg{
+    background-color: ghostwhite;
+}
+/* Header Section */
+.header-logo
+{
+    width: 100px;
+}
+
+/* Banner section */
+.banner{
+    background-color: ghostwhite;
+}
+
+.banner_title .btn {
+    background-color: cornflowerblue;
+    color: #fff;
+    font-weight: bold;
+    padding: 8px 19px;
+}
+
+/* About me asecttiuon */
+
+.about_me .about-img{
+    border: 1px solid rgb(228,231,234);
+}
+.about_me_title .btn{
+    background-color: cornflowerblue;
+    color: #fff;
+    padding: 8px 19px;
+}
+/* count-section*/
+.count{
+    background-color: cornflowerblue ;
+
+}
+
+/* priceing-table */
+.card_item h1 {
+    background-color: ghostwhite;
+    border-radius: 50%;
+    padding: 12px 0px;
+    margin: 0px 140px;
+}
+.card_item .card_item_list li {
+    list-style: none;
+    padding: 10px 7px;
+    font-size: 19px;
+    color: #767676;
+    font-weight: 400;
+}
+.card_item .btn {
+    background: #fff;
+    padding: 8px 22px;
+    box-shadow: 5px 4px 30px 0px rgb(158 156 234 / 51%);
+    border-width: 1px;
+    border-color: cornflowerblue;
+    border-radius: 5px;
+}
+.card_item .btn a{
+    text-decoration: none;
+    color: cornflowerblue;
+    display: inline-block;
+    font-size: 23px;
+}
+/* form_section */
+
+.card_form input{
+    font-size: 20px;
+    padding: 0px 20px;
+}
+.card_form textarea{
+    font-size: 20px;
+}
+.card_form .btn{
+    padding: 8px 25px;
+    font-size: 20px;
+}
+.form_details
+{
+    margin-top: 15px;
+}
+
+/* feature section */
+.user_details img 
+{
+    position: relative;
+    top: 43px;
+    left: 18px;
+
+}
+/* footer_section */
+.footer_section
+{
+    background-color: rgb(4,9,30);
+}
